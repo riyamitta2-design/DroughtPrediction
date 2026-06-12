@@ -13,3 +13,9 @@ In this project, we explored three machine learning algorithms:
 - Decision tree regressor
 - Random forest regessor
   ___
+# Evaluation Metrics
+We evaluated each model using the standard evaluation metrics for regression:
+1- Mean absolute error(mae)
+2- Mean squared error(mse)
+3- Root mean squared error(rmse)
+4- R squared score
