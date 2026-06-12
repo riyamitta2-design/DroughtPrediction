@@ -12,3 +12,5 @@ print(df["Deaths"].describe())
 df = df.drop(columns = ["Deaths"])
 df["preci"] = df["preci"].fillna(df["preci"].median)
 print(df["LAI"].describe())
+
+#New line
